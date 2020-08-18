@@ -281,9 +281,37 @@ We are going to launch our Wordpress and MySQL instances using all the resources
                            }
                          }       
                          
-**Step=>8**  Now, we have to run our terraform code. 
+**Step=>9**  Now, we have to run our terraform code. 
 
 For doing so, we have to run the **terraform init** command first.
 
 This will download the necessary plugins.
+
+![step 9](https://user-images.githubusercontent.com/66829650/90485537-44258200-e155-11ea-8688-d5403c970eab.png)
+
+
+Then, we have to run the command **terraform apply --auto-approve.** 
+
+This will run the code and create the mentioned resources on the configured AWS Cloud.
+
+![step 9-part](https://user-images.githubusercontent.com/66829650/90486066-0b39dd00-e156-11ea-8f79-89bb466454a9.png)
+
+
+**Now, we have to see our AWS dashboard & check that our Wordpress & MYSQL are running in the EC2 section.**
+![step 9 part 2](https://user-images.githubusercontent.com/66829650/90486257-53f19600-e156-11ea-9c8d-fea5d934d9ca.png)
+
+
+**We can access our Wordpress site using the Public IP address that is mentioned in the instance description.**
+![step 9 launch](https://user-images.githubusercontent.com/66829650/90486459-961ad780-e156-11ea-9ac4-a67e4039cf65.png)
+
+Kudos
+
+!! We did it successfully !!
+
+Finally, we launched a Web Portal for a company with a dedicated Database Server that can be accessed only by the Wordpress, facilitating the security of our content.
+
+![Congratulations-scaled](https://user-images.githubusercontent.com/66829650/90486738-0aee1180-e157-11ea-9b6f-6cb36ee77a81.jpg)
+
+
+
 

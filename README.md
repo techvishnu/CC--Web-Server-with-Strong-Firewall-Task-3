@@ -310,7 +310,7 @@ Kudos
 
 Finally, we launched a Web Portal for a company with a dedicated Database Server that can be accessed only by the Wordpress, facilitating the security of our content.
 
-![Congratulations-scaled](https://user-images.githubusercontent.com/66829650/90486738-0aee1180-e157-11ea-9b6f-6cb36ee77a81.jpg)
+![PinkLogoWhiteWebsite](https://user-images.githubusercontent.com/66829650/90487070-8f409480-e157-11ea-9cfa-42c1968b423c.png)
 
 
 
